@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1487012148 source:c:\users\kika-\desktop\профилирующая практика\проект\plant.c
+	<math.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	"plant.h"
+
+1487011920 c:\users\kika-\desktop\профилирующая практика\проект\plant.h
+
+1621028377 source:c:\users\kika-\desktop\профилирующая практика\проект\main.cpp
+	<iostream>
+	"plant.h"
+	"function.h"
+
+1620124617 c:\users\kika-\desktop\профилирующая практика\проект\function.h
+	<iostream>
+
+1621028792 source:c:\users\kika-\desktop\профилирующая практика\проект\function.cpp
+	<iostream>
+	"function.h"
+
