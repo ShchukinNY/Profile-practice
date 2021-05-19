@@ -32,6 +32,7 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="function.cpp" />
 		<Unit filename="function.h">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>

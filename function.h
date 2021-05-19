@@ -11,3 +11,5 @@ void Output (int L1, int L2, int L3, int N, int k, int M[20], double U[][3], dou
 
 void average_value (int k, int N, double Z[][20]);
 
+
+
